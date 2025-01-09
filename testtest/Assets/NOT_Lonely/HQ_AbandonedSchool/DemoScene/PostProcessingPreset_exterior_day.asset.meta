@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 793425d8ae96c5d4eac675aeca36046c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106665
+  packageName: HQ Abandoned School (Modular)
+  packageVersion: 1.2.1
+  assetPath: Assets/NOT_Lonely/HQ_AbandonedSchool/DemoScene/PostProcessingPreset_exterior_day.asset
+  uploadId: 717771
